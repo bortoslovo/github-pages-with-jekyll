@@ -1,5 +1,5 @@
 ---
-title: another-title
+title: "another-title"
 date: 2020-09-03
 ---
 
